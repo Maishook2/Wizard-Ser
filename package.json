@@ -9,7 +9,7 @@
     "plugins": "plugins"
   },
   "scripts": {
-    "start": "node index.js --public",
+    "start": "node index.js --Privet",
     "test": "node test.js"
   },
   "repository": {
